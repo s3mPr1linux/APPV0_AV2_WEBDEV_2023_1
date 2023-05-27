@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+
+body {
+
+  font-family: 'Ubuntu', sans-serif;
+  background-image: radial-gradient(farthest-corner at 40px 40px,
+  #f35 0%, #43e 100%);
+
+
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 30px;
+  color: #333;
+  background-image: url("./img/samurai.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
