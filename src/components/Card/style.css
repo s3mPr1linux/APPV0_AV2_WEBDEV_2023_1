@@ -51,7 +51,7 @@ body {
   
       &.back {
         transform: rotateY(180deg);
-        background-color: #187ce7;
+        background-color: #fff;
         color: #2d2d2d;
       }
     }
